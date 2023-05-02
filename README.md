@@ -1,2 +1,3 @@
 # certificado da Imersão Gamedev JavaScript
-certificado Juliana Zambon
+
+Certificado digital da Imersão GameDev JavaScript realizada pela Alura em 2020.
